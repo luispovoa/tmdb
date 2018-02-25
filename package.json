@@ -40,7 +40,7 @@
     "watchify": "^2.3.0"
   },
   "engines": {
-    "node": "9.x"
+    "node": "6.13.0"
   },
   "browserify": {
     "transform": [
