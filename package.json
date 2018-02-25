@@ -6,7 +6,7 @@
     "url": "https://github.com/SKempin/reactjs-tmdb-app.git"
   },
   "scripts": {
-      "start": "gulp watch"
+      "start": "node app.js"
   },
   "dependencies": {
     "bloodhound-js": "^1.2.1",
@@ -40,7 +40,7 @@
     "watchify": "^2.3.0"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": "9.x"
   },
   "browserify": {
     "transform": [
