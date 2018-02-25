@@ -46,5 +46,6 @@ Supports LTS version (v6).
 ## Author
 [Stephen Kempin](http://www.stephenkempin.co.uk)
 
+
 ## License
 [MIT](https://github.com/SKempin/reactjs-tmdb-app/blob/master/LICENCE)
